@@ -71,7 +71,7 @@ php artisan serve
    - DELETE /employees/{id} - Elimina un empleado.
 
 10. **Accede al Video de demostración:**
-[Video Explicativo](https://github.com/nestjs/nest)
+[Video Explicativo](https://www.loom.com/share/6013d11f5f724b4fb0b1b65a3c1ddca1?sid=13466988-f6b7-49c3-acc4-9e291c2e1b12)
 
 
 
