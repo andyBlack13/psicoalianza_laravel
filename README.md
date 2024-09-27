@@ -16,7 +16,7 @@ Asegúrate de tener instalados los siguientes requisitos:
 1. **Clonar el repositorio**:
 ```bash
 git clone https://github.com/andyBlack13/psicoalianza_laravel.git
-cd employee-role-management
+cd psicoalianza_laravel
 ```
 
 2. **Instalar dependencias**:
